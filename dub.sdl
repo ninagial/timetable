@@ -1,0 +1,7 @@
+name "timetable"
+description "A timetable application built with D."
+authors "Nina Gial"
+license "GPL-3"
+// dependency "sqlite-d" version="~>1.0.0"
+// dependency "gtk-d" version="~>3.9.0"
+targetType "executable"
